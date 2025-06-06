@@ -2,7 +2,7 @@
 
 This repository contains various bash scripts.
 ## Documentation  
-- [Explanation Document](./Explanation.docx)
+- [Explanation Document](./Explanation.docx.docx)
 
 largest and smallest element in an array using shell scripting- [array.sh](./array.sh)<BR>
  perform bitwise operations (AND, OR, XOR, NOT) based on user input- [bitwise.sh](./bitwise.sh)<BR>
