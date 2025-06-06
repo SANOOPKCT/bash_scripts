@@ -1,6 +1,8 @@
-# bash_scripts
-sample bash script programs for beginers
-## Bash Scripts
+# Bash Scripts Collection
+
+This repository contains various bash scripts.
+## Documentation  
+- [Explanation Document](./Explanation.docx)
 
 largest and smallest element in an array using shell scripting- [array.sh](./array.sh)<BR>
  perform bitwise operations (AND, OR, XOR, NOT) based on user input- [bitwise.sh](./bitwise.sh)<BR>
